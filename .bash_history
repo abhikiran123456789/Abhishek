@@ -1,176 +1,4 @@
 ls
-sudo mysql -h database-1.cnsgjrmlabyj.us-east-1.rds.amazonaws.com
-sudo yum install mariadb-server -y
-sudo mysql -h database-1.cnsgjrmlabyj.us-east-1.rds.amazonaws.com -u admin -p
-sudo service mariadb start
-sudo service mariadb status
-clear
-sudo mysql -h database-1.cnsgjrmlabyj.us-east-1.rds.amazonaws.com -u admin -p -P 3306
-cp abhi two
-ls
-cd two/
-ls
-cp one three
-cp -r one three
-cd 
-cp -r one three
-ls 
-cd three/
-ls
-mv one/three
-cd 
-mv one/three
-mv one three
-mv kiran three/
-ls 
-cd three/
-ls
-sudo yum install mariadb-server -y
-sudo amazon-linux-extras  install php8.1 -y
-sudo yun install httpd -y
-sudo yun install http -y
-sudo yum install httpd -y
-sudo yum install nginx -y
-sudo amazon-linux-extras  install nginx -y
-sudo service nginx start
-sudo service httpd status
-sudo amazon-linux-extras  install nginx1 -y
-sudo service nginx start
-sudo service nginx status
-sudo service mariadb start
-sudo service mariadb status
-sudo service php starts
-sudo service php start
-sudo service php8.1  start
-sudo service php-fpm start 
-sudo service php-fpm status
-exit
-sudo mariadb status
-sudo mariadb service status
-sudo service mariadb status
-sudo service mariadb start
-sudo service mariadb status
-sudo mysql -h database-1.cnsgjrmlabyj.us-east-1.rds.amazonaws.com -u admin -p
-clear
-pwd
-ls
-rm pp/
-rm -p pp/
-rm -r pp
-ls
-mkdir ii hhu  hhhu h 
-ls
-cd h
-cd ..
-cd 
-cd -
-cd hhhu/
-cd -
-mkdir -p one two three 4
-ls
-mkdir -p one/ two/ three/ 4
-ls
-cd one/
-ls
-mkdir -p 3/4/5
-ls
-cd 3
-ls
-cd 4
-ls
-cd 5
-ls
-cd -
-cd 
-ls -l
-chmod -x hhhu/
-ls -l
-chwon root:root hhhu/
-sudo chwon root:root hhhu/
-sudo chown root:root hhhu/
-ls -l
-sudo ec2-user:root hhhu/
-sudo chown  ec2-user:root hhhu/
-ls -l
-clear
-ping 3.210.200.8
-ping facebook.com
-ls =l
-ls -l
-touch -m h
-ls -l
-cat > abhi
-ls
-cat > abhi 
-cat>> abhi 
-cat abhi 
-ls
-cat abhi 
-cat > kiran
-cat kiran 
-cat >> kiran 
-cat kiran 
-cp three/two
-cp abhi/two
-cp -r abhi/ec2-user/two
-cp  abhi/ec2-user/two
-ls
-cd one/
-ls
-cd 
-find . -type f -name abhi
-find . -type d -name abhi
-find . -type d -name 3
-cd three/one/
-ls
-mkdir abhi
-ls
-cd 
-find .name abhi
-find . -name abhi
-cd two/
-ls
-cd 
-rpm -qa | grep mlocate
-locate abhi
-locate -c  abhi
-ls
-clear
-locate 3
-clera
-clear
-locate three
-locate abhi
-locate one
-clera
-clear
-mkdir -p kiran ravi
-ls
-cd ravi
-mkdir -p kiran ravi
-cd 
-locate ravi
-locate kiran
-locate hhhu
-locate hhu
-nano abhikiran
-ls
-grap -c abhi abhikiran
-grep -c abhi abhikiran
-nano abhikiran
-grep ravikiran abhikiran 
-grep -l abhi *
-nano abhikiran
-grep -i ABHI abhikiran 
-grep -n ravi abhikiran 
-grep -v ravikiran abhikiran 
-fgrep -h "abhi" abhikiran 
-egrep "abhi" *
-clear
-la
-ls
-rm abhi
-ls
 top
 clear
 top -u root
@@ -998,3 +826,175 @@ docker iages
 docker images
 cd 
 sudo su
+ls 
+rm -r kiran/
+ls 
+nano Dockerfile 
+chmod +700 Dockerfile 
+sudochmod +700 Dockerfile 
+sudo chmod +700 Dockerfile 
+ls -l
+nano Dockerfile 
+sudo 770 Dockerfile 
+sudo chmod 770 Dockerfile 
+ls -l
+sudo chmod 770 Dockerfile 
+nano Dockerfile 
+sudo chmod +700 Dockerfile 
+nano Dockerfile 
+ls -l
+sudo chmod 700 Dockerfile 
+ls -l
+nano Dockerfile 
+ls
+sudo chmod -x Dockerfile 
+ls -l
+nano Dockerfile 
+clear
+ls 
+rm sub.log 
+ls 
+cd nodeapp/
+ls 
+cd -
+rm -r nodeapp/
+ls 
+mkdir nodeapp
+cd nodeapp/
+ls 
+nano mynginxdockerfile 
+ls 
+nano package.json
+nano index.js 
+ls
+docker build -f mynginxdockerfile .
+sudo service docker start
+docker build -f mynginxdockerfile .
+docker ps 
+sudo docker build -f mynginxdockerfile .
+sudo su
+cd 
+ls 
+rm -r containermount democode mydata myproject
+sudo rm -r containermount democode mydata myproject
+ls 
+sudo rm demos3 access.log images.jpg myimage.tar my.tar 
+ls 
+nano Dockerfile 
+rm d
+rm Dockerfile 
+sudo rm Dockerfile 
+ls 
+sudo rm iptables-backup.txt 
+ls 
+cd nodeapp/
+ls 
+cp mynginxdockerfile /home/ec2-user/
+cd .
+cd ..
+ls
+nano mynginxdockerfile 
+sudo rm -r nodeapp/
+ls
+sudo service git start
+sudo yum install git -y
+sudo service git start
+sudo service git status
+sudo yum install git -y
+sudo service git start
+sudo service docker stop
+sudo service git start
+sudo yum update -y
+sudo yum install git -y
+sudo service git start
+ls 
+git add .
+sudo su
+git --config
+ git remote add origin "https://github.com/abhikiran123456789/Abhishek.git"
+git config --global user.name "abhishekmahale"
+git config --global user.email "abhishekmahale464@gmail.com
+"
+git config --list
+git init
+mkdir abhishek
+git init
+cd abhishek/
+ls -a
+git config --list
+cd 
+ls -a
+cd abhishek/
+ls -a
+git pull  git remote add origin "https://github.com/abhikiran123456789/Abhishek.git"
+git pull https://github.com/abhikiran123456789/Abhishek.git
+ls 
+cd 
+ls 
+git add .
+git remote add origin https://github.com/abhikiran123456789/Abhishek.git
+git commit -m "mynginxdockerfile"
+git push origin master
+git push -f origin master
+ls
+ls 
+cd abhishek/
+ls 
+sudo nginx version
+sudo amazon-linux-extras install nginx -y
+sudo amazon-linux-extras install nginx1 -y
+sudo service nginx start
+sudo amazon-linux-extras install php8.1 -y
+sudo service php-fpm start
+sudo service php-fpm status
+sudo service nginx status
+clear
+cd /usr/share/nginx/html/
+ls 
+sudo mkdir upload
+ls 
+sudo nano ups3.php
+sudo nano fileadd.html
+ls 
+ sudo php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');
+
+"
+sudo php -r "if (hash_file('sha384', 'composer-setup.php') === '55ce33d7678c5a611085589f1f3ddf8b3c52d662cd01d4ba75c0ee0459970c2200a51f492d557530c71c15d8dba01eae') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+ sudo php composer-setup.php
+sudo php -r "unlink('composer-setup.php');"
+ sudo php  composer.phar require aws/aws-sdk-php
+//sudo mv composer.phar /usr/local/bin/composer     use this command if got any error
+ls 
+sudo php-fpm restart
+cd 
+sudo php-fpm restart
+sudo phprestart
+sudo php restart
+sudo service php-fpm -restart
+sudo service php-fpm restart
+sudo service nginx  restart
+cd -
+sudo nano fileadd.html 
+ls 
+sudo rm -r upload/
+sudo makdir uploads
+mkdir upkoads
+ls
+sudo mkdir upkoads
+ls 
+sudo rm -r upkoads/
+sudo mkdir uploads
+ls 
+sudo chmod 777 uploads/
+ls 
+sudo nano index.html 
+sudo service nginx restart
+sudo service php-fpm restart
+sudo  amazon-linux-extras install nginx1 -y
+sudo  amazon-linux-extras install php8.1 -y
+cd /usr/share/nginx/html/
+ls
+nano ups3.php 
+cd 
+ls 
+sudo nano mynginxdockerfile 
