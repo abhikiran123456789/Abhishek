@@ -4,3 +4,4 @@ ENV MYSQL_DATABASE=wordpressdb
 EXPOSE 3306
 CMD ["mysqld"]
 
+aa
